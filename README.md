@@ -34,3 +34,12 @@ Duration: Approximately 1 hour
 
 [View lab instructions](https://github.com/aws-john/connect-lex-integration-bookappointment)
 
+
+## Lab 4: [Build your own AWS DeepRacer RL model!](https://github.com/aws-samples/aws-deepracer-workshops/tree/master/Workshops/2019-reInvent/Lab_200_AIM207)
+
+Learn how to create a Reinforcement Learning model for AWS DeepRacer and participate in the DeepRacer League!
+
+Duration: Approximately 1 hour
+
+[View lab instructions](https://github.com/aws-samples/aws-deepracer-workshops/tree/master/Workshops/2019-reInvent/Lab_200_AIM207)
+
