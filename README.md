@@ -26,7 +26,17 @@ Duration: Approximately 30 minutes
 [View lab instructions](https://github.com/aws-john/sagemaker-churn)
 
 
-## Lab 3: [Build a Virtual Contact Center with Amazon Connect](https://github.com/aws-john/connect-lex-integration-bookappointment)
+## Lab 3: [Build, train & debug, and deploy & monitor with Amazon SageMaker](https://github.com/aws-john/sagemaker-churn)
+
+In this lab, you will work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker including the ones announced at re:Invent 2019. You will use the Amazon SageMaker to build, train & debug models with Amazon SageMaker Debugger, and deploy & monitor with Amazon SageMaker Model Monitor.
+
+Duration: Approximately 90 minutes
+
+[View lab instructions](https://github.com/aws-john/reinvent2019-aim362-sagemaker-debugger-model-monitor)
+
+
+
+## Lab 4: [Build a Virtual Contact Center with Amazon Connect](https://github.com/aws-john/connect-lex-integration-bookappointment)
 
 In this lab, you will be building a contact center using Amazon Connect and integrating with Amazon Lex. Amazon Lex interprets dual-tone multi-frequency signaling (DTMF) digits entered on a keypad. It matches the intent based on that input in the same way it matches the intent when you speak an utterance. This provides for greater flexibility for customers to interact with your contact center.
 
@@ -35,7 +45,7 @@ Duration: Approximately 1 hour
 [View lab instructions](https://github.com/aws-john/connect-lex-integration-bookappointment)
 
 
-## Lab 4: [Build your own AWS DeepRacer RL model!](https://github.com/aws-samples/aws-deepracer-workshops/tree/master/Workshops/2019-reInvent/Lab_200_AIM207)
+## Lab 5: [Build your own AWS DeepRacer RL model!](https://github.com/aws-samples/aws-deepracer-workshops/tree/master/Workshops/2019-reInvent/Lab_200_AIM207)
 
 Learn how to create a Reinforcement Learning model for AWS DeepRacer and participate in the DeepRacer League!
 
