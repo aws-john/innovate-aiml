@@ -26,7 +26,7 @@ Duration: Approximately 30 minutes
 [View lab instructions](https://github.com/aws-john/sagemaker-churn)
 
 
-## Lab 3: [Build, train & debug, and deploy & monitor with Amazon SageMaker](https://github.com/aws-john/sagemaker-churn)
+## Lab 3: [Build, train & debug, and deploy & monitor with Amazon SageMaker](https://github.com/aws-john/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 
 In this lab, you will work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker including the ones announced at re:Invent 2019. You will use the Amazon SageMaker to build, train & debug models with Amazon SageMaker Debugger, and deploy & monitor with Amazon SageMaker Model Monitor.
 
